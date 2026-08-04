@@ -24,18 +24,12 @@ Masters-Projects/
 ## 🛠️ Technologies
 
 - Python
-- SQL
 - Pandas
 - NumPy
 - Scikit-Learn
-- TensorFlow
-- PyTorch
 - XGBoost
 - Matplotlib
 - Plotly
-- Power BI
-- Jupyter Notebook
-- Git & GitHub
 
 ---
 
