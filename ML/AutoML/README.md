@@ -9,7 +9,7 @@ The goal of this practice is to evaluate the behavior of an **Automated Machine 
 
 ## Dataset
 
-**[Wine Quality (red)]([https://archive.ics.uci.edu/ml/machine-learning-databases/winequality/winequality-red.csv](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv))** from the UCI Machine Learning Repository.
+**[Wine Quality (red)]([https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv]) ** from the UCI Machine Learning Repository.
 
 This dataset was chosen because its target variable (`quality`) is **not binary**, which allows the AutoML tool to be evaluated in two different ways:
 
